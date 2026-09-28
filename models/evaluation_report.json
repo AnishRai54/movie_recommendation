@@ -1,0 +1,23 @@
+{
+    "TF-IDF (Classical ML)": {
+        "Precision@5": 0.9001895238095238,
+        "Recall@5": 0.9988,
+        "Hit Rate@5": 1.0,
+        "Jaccard@5": 0.8689619047619047,
+        "ILD (Diversity)": 0.5213042323887348
+    },
+    "Sentence-BERT (DL)": {
+        "Precision@5": 0.7176666666666667,
+        "Recall@5": 0.9747333333333333,
+        "Hit Rate@5": 1.0,
+        "Jaccard@5": 0.6044530158730158,
+        "ILD (Diversity)": 0.3113459380865097
+    },
+    "Hybrid Recommender": {
+        "Precision@5": 0.8854161904761905,
+        "Recall@5": 0.9985809523809523,
+        "Hit Rate@5": 1.0,
+        "Jaccard@5": 0.8433299999999999,
+        "ILD (Diversity)": 0.47202637657523155
+    }
+}

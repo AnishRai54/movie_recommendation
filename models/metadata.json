@@ -1,0 +1,8 @@
+{
+    "timestamp": "2026-09-28 05:15:11",
+    "total_movies": 6000,
+    "embedding_dim": 384,
+    "hybrid_alpha": 0.5,
+    "dl_model_name": "all-MiniLM-L6-v2",
+    "vectorizer_max_features": 10000
+}
