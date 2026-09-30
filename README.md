@@ -1,5 +1,8 @@
 # Movie Recommendation System — CineMatch
 
+
+PROJECT URL LINK :  https://anishmovierecommendation.streamlit.app/
+
 A hybrid Machine Learning & Deep Learning movie recommendation system powered by **TF-IDF lexical matching**, **Sentence-BERT semantic transformer embeddings**, and an interactive **Streamlit** discovery interface enriched with real-time **TMDB artwork**.
 
 ---
